@@ -37,15 +37,15 @@ console.log(blank);
 
 // Bonus
 // 1
-// const quarter = 0.25, dime = 0.10, nickel = 0.05,  penny = 0.01;
+const quarter = 0.25, dime = 0.10, nickel = 0.05,  penny = 0.01;
 // // ------------
 // // 2
-// console.log (quarter, dime, nickel, penny);
+console.log (quarter, dime, nickel, penny);
 // ------------
 // 3
-// let letters = "qwertyuiop";
+let letters = "qwertyuiop";
 // ------------
 // 4
-// console.log(letters[letters.length-1]);
-// console.log(letters[9],letters.length);
+console.log(letters[letters.length-1]);
+console.log(letters[9],letters.length);
 
