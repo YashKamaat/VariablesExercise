@@ -10,7 +10,7 @@ num=15;
 console.log(num);
 // ------------
 // 4
-num + =7;
+num += 7;
 num = num + 7;
 console.log(num);
 // --------------
